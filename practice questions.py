@@ -242,6 +242,9 @@ N=int(input("How many prime no. you want to generate?"))
 
  Q11. Python program to calculate factorial in single line.
 f= lambda n:n*f(n-1) if n>0 else 1
+print(f(5))
+
+O/P:-120
 
 --------------------------------------------------------------------------------------------------------
 
